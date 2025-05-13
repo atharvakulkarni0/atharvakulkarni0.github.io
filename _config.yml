@@ -1,3 +1,20 @@
-remote_theme: pages-themes/tactile@v0.2.0
-title: Atharva Kulkarni
-description: Welcome to my portfolio!
+title: "Atharva Kulkarni"
+description: "My personal website and portfolio"
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Navigation
+header:
+  pages:
+    - title: "Home"
+      url: /
+    - title: "Projects"
+      children:
+        - title: "Economic Growth"
+          url: /projects/econ-growth/
+        - title: "ML Classifier"
+          url: /projects/ml-classifier/
+    - title: "About"
+      url: /about/
