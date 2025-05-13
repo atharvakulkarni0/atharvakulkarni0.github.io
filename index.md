@@ -1,16 +1,6 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Welcome"
 ---
 
-# 👋 Hi, I'm Atharva
-
-Welcome to my personal portfolio website!
-
-## 🔧 Projects
-- [Project 1](https://github.com/atharvakulkarni0/project1)
-- [Project 2](https://github.com/atharvakulkarni0/project2)
-
-## 📫 Contact
-- [GitHub](https://github.com/atharvakulkarni0)
-- [LinkedIn](#)
+Hi, I'm Atharva! This is my personal website. Use the menu above to see my projects.
